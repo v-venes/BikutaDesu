@@ -19,6 +19,7 @@ My name is Victor, I'm graduating in Systems Analisys and Development at Fatec Z
 ![firebase_badge]
 ![mongodb_badge]
 ![react_badge]
+![vue_badge]
 ![express_badge]
 ![godot_badge]
 ![unity_badge]
@@ -36,7 +37,7 @@ My name is Victor, I'm graduating in Systems Analisys and Development at Fatec Z
 [javascript_badge]: https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [typescript_badge]: https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%blue
 [html_badge]: https://img.shields.io/badge/html%20-%23323330.svg?&style=for-the-badge&logo=html5
-[css_badge]: https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=%white
+[css_badge]: https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=blue
 [csharp_badge]: https://img.shields.io/badge/Csharp%20-%23323330.svg?&style=for-the-badge&logo=csharp
 [java_badge]: https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java
 [sqlserver_badge]: https://img.shields.io/badge/mssql%20-%23323330.svg?&style=for-the-badge&logo=microsoftsqlserver
@@ -44,6 +45,7 @@ My name is Victor, I'm graduating in Systems Analisys and Development at Fatec Z
 [firebase_badge]: https://img.shields.io/badge/firebase%20-%23323330.svg?&style=for-the-badge&logo=firebase
 [mongodb_badge]: https://img.shields.io/badge/mongodb%20-%23323330.svg?&style=for-the-badge&logo=mongodb
 [react_badge]: https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react
+[vue_badge]: https://img.shields.io/badge/vue%20-%23323330.svg?&style=for-the-badge&logo=vue.js
 [express_badge]: https://img.shields.io/badge/express%20-%23323330.svg?&style=for-the-badge&logo=express
 [godot_badge]: https://img.shields.io/badge/godot%20-%23323330.svg?&style=for-the-badge&logo=godotengine
 [unity_badge]: https://img.shields.io/badge/unity%20-%23323330.svg?&style=for-the-badge&logo=unity
