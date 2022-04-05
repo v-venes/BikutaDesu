@@ -7,6 +7,7 @@ My name is Victor, I'm graduating in Systems Analisys and Development at Fatec Z
 
 ### **Some languages and technologies that I'm learning and like** :computer:
 
+![go_badge]
 ![nodejs_badge]
 ![javascript_badge]
 ![typescript_badge]
@@ -33,6 +34,7 @@ My name is Victor, I'm graduating in Systems Analisys and Development at Fatec Z
 [![twitter][twitter_badge]](https://www.twitter.com/neves_v42)
 [![reddit][reddit_badge]](https://www.reddit.com/user/BikutaDesu)
 
+[go_badge]: https://img.shields.io/badge/go%20-%23323330.svg?&style=for-the-badge&logo=go
 [nodejs_badge]: https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js
 [javascript_badge]: https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [typescript_badge]: https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%blue
