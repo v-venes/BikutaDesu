@@ -3,7 +3,7 @@ My name is Victor, I'm graduating in Systems Analisys and Development at Fatec Z
 
 ### **Some of my stats** :point_down:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=BikutaDesu&show_icons=true&theme=dracula&locale=en&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BikutaDesu&layout=compact&count_private=true&theme=dracula&locale=en)
+![Stats](https://github-readme-stats.vercel.app/api?username=BikutaDesu&count_private=false&show_icons=true&theme=dracula&locale=en&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BikutaDesu&layout=compact&count_private=false&theme=dracula&locale=en)
 
 ### **Some languages and technologies that I'm learning and like** :computer:
 
