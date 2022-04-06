@@ -1,5 +1,5 @@
 ﻿# Hi, welcome to my GitHub 👋
-My name is Victor, I'm graduating in Systems Analisys and Development at Fatec Zona Leste and working as NodeJS Junior developer at GrooveTech 😊
+My name is Victor, I'm graduating in Systems Analisys and Development at Fatec Zona Leste and working as NodeJS Junior developer 😊
 
 ### **Some of my stats** :point_down:
 
